@@ -17,6 +17,9 @@ This website I made while I was learning PHP. It allows the user to make a profi
   * It also shows their earnings which is a difference of how much they deposited and how much they withdrawed after their initial deposit. 
   * On the bottom, it displays all transactions made by this user (most recent at the top)
   * On the navigation menu, the user is presented with options to withdraw, deposit, apply for loan, apply for credit card, logout, or view their profile (simply by clicking their name).
+  ## Loan Application
+  * The system allows a user to get the loan based on their credit score. If their credit score is not adequate, an exception will be thrown. 
+  * Once the user applies for a loan for a certain amount of years, interest will be automatically added to their final balance due. This final amount will be displayed on the dashboard. 
   
 
 # Author
