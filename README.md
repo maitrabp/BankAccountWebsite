@@ -21,6 +21,15 @@ This website I made while I was learning PHP. It allows the user to make a profi
   * The system allows a user to get the loan based on their credit score. If their credit score is not adequate, an exception will be thrown. 
   * Once the user applies for a loan for a certain amount of years, interest will be automatically added to their final balance due. This final amount will be displayed on the dashboard. 
   
+  ## Credit Card Application
+  * Similar to Loan Application, User is able to register for a credit card based on their credit score.
+  * Credit Card Account behaves similar to a checking account which means the user will be able to deposit & withdraw. 
+  
+  ## Potential Changes in Future Versions
+  *  I want to make the credit card usable, so for example I was thinking I can manually have the user add their transactions made through this credit card in the future. 
+  * Would also like to allow the user to pay off their debt acquired in the credit card, however there will be no timeframe for paying off. 
+  * I would also like to do the same with loan, the user can currently get the loan but there is no way for them to pay it off. Therefore, this is one of my future goal. 
+  * I would also like to add a filter to the transaction table below, so that the user to check their specific account. 
 
 # Author
 * Maitra Patel
